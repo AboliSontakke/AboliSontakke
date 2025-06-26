@@ -18,7 +18,7 @@
 Java | C++ | Python | JavaScript | SQL  
 
 **Frontend:**  
-HTML5 | CSS3 | Bootstrap | React.js | Angular  
+HTML5 | CSS | Bootstrap | React.js | Angular  
 
 **Backend & Frameworks:**  
 Spring Boot | Node.js | Express.js | JDBC  
