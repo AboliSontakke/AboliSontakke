@@ -30,7 +30,7 @@ MySQL | MongoDB
 Git & GitHub | Postman | VS Code | Ecllipse
 
 **Currently Exploring:**  
-Python |Flutter | DevOps  | Docker | 
+Python |Flutter | DevOps  | Docker
 
 ---
 
